@@ -1,4 +1,4 @@
-### Buat Smart Contract
+# Create Smart Contract
 Installing hardhat
 ```
 npm install -D hardhat
